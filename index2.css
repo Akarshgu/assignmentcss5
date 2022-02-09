@@ -25,7 +25,7 @@ border-color: white green white orange;
  }
  .sky{
 
-background-image: url(.\sky\ \(1\).jpg);
+background-image: url(./sky\ \(1\).jpg);
 background-size: cover;
 background-position: center ;
 width:100%;
